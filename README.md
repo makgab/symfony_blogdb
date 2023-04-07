@@ -4,10 +4,9 @@
 
 ## Sample apps and docs:
 
-- https://symfony.com/doc/current/doctrine.html
-
  - https://symfony.com
  - https://symfony.com/doc/
+ - https://symfony.com/doc/current/doctrine.html
  - https://symfony.com/doc/current/setup.html
  - https://symfony.com/doc/current/forms.html
 
