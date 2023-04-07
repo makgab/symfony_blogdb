@@ -38,6 +38,7 @@
  - php bin/console make:controller ProductController
  - php bin/console dbal:run-sql 'SELECT * FROM product'
  - php bin/console debug:router
- - Run server: symfony server:start
+ - Run server:
+   - symfony server:start
    - http://127.0.0.1:8000
 
